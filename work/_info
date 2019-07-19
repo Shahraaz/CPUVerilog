@@ -1,0 +1,290 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver
+vAdder_16
+Z0 !s110 1546775776
+!i10b 1
+!s100 XYXLU946AoNkSb[IgeL>G0
+IN1LD[9kPimhTZ05>8GeDc0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder
+w1546764078
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Adder_16.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Adder_16.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1546775776.000000
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Adder_16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Adder_16.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder_16
+vAlu
+!s110 1546776546
+!i10b 1
+!s100 FSG>U5lk2=;<hnba;ER<M3
+I]]R1j6]gK<@nGz2VHL1:C0
+R1
+R2
+w1546776539
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Alu.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1546776546.000000
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Alu.v|
+!i113 1
+R5
+R6
+n@alu
+vand_gate
+R0
+!i10b 1
+!s100 GVE_i4?>;Eff[D]E1Wg@:0
+ITT[=;QY6`G[zc0g6c@F^c3
+R1
+R2
+w1546761403
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/and.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/and.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1546775775.000000
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/and.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/and.v|
+!i113 1
+R5
+R6
+vCPU
+!s110 1546780659
+!i10b 1
+!s100 0HN2Y[GdiAD:dSEXTg`G@2
+IC<N1_4o?NE2i4fMD3o14?1
+R1
+R2
+w1546780646
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Computer.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Computer.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1546780659.000000
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Computer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Computer.v|
+!i113 1
+R5
+R6
+n@c@p@u
+vFull_adder
+R0
+!i10b 1
+!s100 b1P4bjGA1:7gYj7G>A<U@0
+IH>dhBA:YG]^L7;TPCg<IA2
+R1
+R2
+w1546763493
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Full_Adder.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Full_Adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Full_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Full_Adder.v|
+!i113 1
+R5
+R6
+n@full_adder
+vHalf_Adder
+R0
+!i10b 1
+!s100 =EfYKZNK5G=<RCEYezJQh2
+IVnOILUIo1VNfh8<e9^26Q0
+R1
+R2
+w1546763156
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Half_Adder.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Half_Adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Half_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Half_Adder.v|
+!i113 1
+R5
+R6
+n@half_@adder
+vmux_2
+R0
+!i10b 1
+!s100 nJC9;U>jzTPogamoc=WLc0
+I^]I9a__n[l1WC7OVPOUDb0
+R1
+R2
+w1546762695
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/mux.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/mux.v|
+!i113 1
+R5
+R6
+vnor_gate
+R0
+!i10b 1
+!s100 oO4aNLKWdhe5NddoT`aMj1
+IR?A_Tn=K<L1=SSmPoYOLk0
+R1
+R2
+w1546762940
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/nor.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/nor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/nor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/nor.v|
+!i113 1
+R5
+R6
+vnot_gate
+R0
+!i10b 1
+!s100 Jfef`CW@6V>gDl4NlEoHO2
+IGzmS<HfK2AahJV<EFEkTM1
+R1
+R2
+w1546762053
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/not.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/not.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/not.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/not.v|
+!i113 1
+R5
+R6
+vor_gate
+R0
+!i10b 1
+!s100 JhL2MIIQzSH8NFKT5F^ZL2
+IGP8B[`IYFfBiOkJb6eYC<3
+R1
+R2
+w1546761554
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/or_gate.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/or_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/or_gate.v|
+!i113 1
+R5
+R6
+vPC_16
+!s110 1546776791
+!i10b 1
+!s100 8]Q:K1J1@KC]9d:792?BA0
+I>5=V[=8fRQOo<X?QTl5?42
+R1
+R2
+w1546776788
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Program_Counter.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Program_Counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1546776791.000000
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Program_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Program_Counter.v|
+!i113 1
+R5
+R6
+n@p@c_16
+vRam256x16
+!s110 1546775777
+!i10b 1
+!s100 MkSljE;ZWfigK5To_=AJ]2
+IXJ<7UaD@Vg5cQZP3@k9KZ2
+R1
+R2
+w1546769895
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Ram.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Ram.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1546775777.000000
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/Ram.v|
+!i113 1
+R5
+R6
+n@ram256x16
+vxor_gate
+R0
+!i10b 1
+!s100 UgM@F<B;@5N5GJ?z^3Wk80
+I:gTjaG=42U>MdzBg4N9?W0
+R1
+R2
+w1546763098
+8C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/xor.v
+FC:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/xor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/xor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sheraaz/Desktop/Computer Organisation/EDuserver/work/New folder/xor.v|
+!i113 1
+R5
+R6
